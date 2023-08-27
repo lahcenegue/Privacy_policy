@@ -2,7 +2,7 @@ Last Updated: [01/08/2023]
 
 1. Introduction
 
-Welcome to [تطبيق سالم العجمي] ("us", "we", or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and its related services (collectively, the "App"). Please read this Privacy Policy carefully. By accessing or using our App, you acknowledge that you have read, understood, and agree to be bound by the terms of this Privacy Policy.
+("us", "we", or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and its related services (collectively, the "App"). Please read this Privacy Policy carefully. By accessing or using our App, you acknowledge that you have read, understood, and agree to be bound by the terms of this Privacy Policy.
 
 1. No Data Collection:
 Our app does not collect any personal information, such as your name, email address, or any other identifying information.
