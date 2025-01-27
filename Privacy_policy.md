@@ -1,68 +1,81 @@
+# Privacy Policy  
+**Last Updated: January 26, 2025**  
 
-Privacy Policy
-This privacy policy applies to the Time Difference Calculator app (hereby referred to as "Application") for mobile devices that was created by GUENANE LAHCENE (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This Privacy Policy applies to the **Time Difference Calculator** mobile application (hereinafter referred to as the "Application"), developed by **GUENANE LAHCENE** (hereinafter referred to as the "Developer"). The Application is provided as a free service and is intended to be used "AS IS".
 
+---
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+## 1. Data Collected and Usage  
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+### Types of Data  
+The Application automatically collects the following **anonymous and non-personal data** during use:  
+- **IP Address**: Used for fraud prevention and technical analytics.  
+- **Usage History**: Visited pages, session duration, and access dates (to improve features).  
+- **Technical Information**: Operating system (Android/iOS) and device model (to ensure compatibility).  
 
-The Application does not gather precise information about the location of your mobile device.
+**No personal data** (name, email, phone number) or **precise geolocation** is collected.  
 
+---
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+### Purpose of Processing  
+Data is used to:  
+- Provide and maintain the service.  
+- Analyze Application performance.  
+- Prevent abuse or technical failures.  
 
+---
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+## 2. Third-Party Services  
 
+### External Services  
+The Application uses the following third-party services:  
+- **Google Play Services**: For Android updates and integration.  
+  [Privacy Policy](https://policies.google.com/privacy)  
 
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+**No data is sold to third parties.** Aggregated data may be shared only in these cases:  
+- **Legal obligation** (e.g., court order).  
+- **Protection of rights** (e.g., fraud investigation).  
 
+---
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+## 3. Data Security  
 
-Google Play Services
+### Technical Measures  
+- **SSL encryption** for data transmission.  
+- **Secure storage** on servers with restricted access to technical staff.  
+- **Regular security audits**.  
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+---
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## 4. Data Retention  
+Data is retained:  
+- For **30 days** after Application uninstallation.  
+- **Longer if required by law** (e.g., legal investigation).  
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+---
 
+## 5. User Rights (GDPR/CCPA)  
+You have the right to:  
+- **Request access to or deletion** of your data by contacting [guenane.dev@gmail.com](mailto:guenane.dev@gmail.com).  
+- **Opt out of marketing processing** (adjust device settings or contact us).  
+- **Withdraw consent** at any time (by uninstalling the Application).  
 
-Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at guenane.dev@gmail.com and they will respond in a reasonable time.
+**Response Time**: We commit to responding within **7 business days**.  
 
+---
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## 6. Children  
+The Application **does not target children under 13**. If we discover that a child under 13 has provided data without parental consent, it will be **deleted immediately**. Contact us at [guenane.dev@gmail.com](mailto:guenane.dev@gmail.com) to report such cases.  
 
+---
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (guenane.dev@gmail.com) so that they will be able to take the necessary actions.
+## 7. Policy Updates  
+- Updates will be notified via **an in-app notification**.  
+- The "Last Updated" date at the top of this page reflects changes.  
 
+---
 
-Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-
-This privacy policy is effective as of 2025-01-26
-
-
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at guenane.dev@gmail.com.
+## 8. Contact  
+For questions about this policy:  
+- **Email**: [guenane.dev@gmail.com](mailto:guenane.dev@gmail.com)  
+- **Guaranteed response within 48 hours**.  
