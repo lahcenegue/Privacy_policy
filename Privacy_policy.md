@@ -20,7 +20,9 @@ When you use the app, we may collect various types of information, including:
 
 ### 📸 Camera Data - Child Protection
 When you grant camera permission, we access your device's camera to:
-- `[specify your app's camera functionality, e.g., "take photos within the app," "scan QR codes," "capture educational content"]`
+- **Take photos of services** provided by service providers to showcase their work
+- **Upload profile pictures** for user accounts and service provider profiles
+- **Document service completion** for quality assurance and customer satisfaction
 - **For children under 13**: Parental consent is required before camera access
 - Photos and images are processed locally on your device
 - Content is not automatically uploaded to our servers unless you explicitly choose to share
@@ -28,7 +30,10 @@ When you grant camera permission, we access your device's camera to:
 
 ### 📍 Location Information - Family Safety
 When location services are enabled, we collect precise and approximate geographic data to:
-- `[specify purpose, e.g., "provide location-based educational features," "show nearby family-friendly content"]`
+- **Connect customers with nearby service providers** in their area
+- **Enable service providers to navigate** to customer locations for service delivery
+- **Show relevant local services** and available providers in your vicinity
+- **Calculate distance and estimated arrival times** for service appointments
 - **For children under 13**: Parental consent and approval required
 - You can control location permissions through your device settings at any time
 - **Child safety**: Location data for children is never shared with third parties
@@ -129,6 +134,14 @@ We retain your personal information only as long as necessary to:
 - Comply with legal obligations
 - Resolve disputes and enforce agreements
 
+### 🗂️ Special Retention Rules for Children
+**For users under 13:**
+- ✅ **Shorter retention periods** - data is deleted more frequently
+- ✅ **Automatic deletion** when child reaches 13 (unless parent opts to continue)
+- ✅ **Immediate deletion** upon parent request
+- ✅ **No indefinite storage** of children's personal information
+- ✅ **Regular purging** of unnecessary data
+
 ## 👶 Children's Privacy & Family Policy Compliance
 
 **Important**: Our app is designed to be **family-friendly** and complies with applicable children's privacy laws including COPPA (Children's Online Privacy Protection Act) and GDPR requirements for children.
@@ -199,16 +212,24 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 <div align="center">
 
-| Contact Method | Information |
-|----------------|-------------|
-| 📧 **Email** | `haveagoodoneapp@gmail.com` |
-| 📞 **Phone** | `+1(306)3511781` |
+| Contact Method | Information | **For Parents** |
+|----------------|-------------|-----------------|
+| 📧 **Email** | `[Your Email Address]` | `[Your Priority Parent Email]` |
+| 📞 **Phone** | `[Your Phone Number]` | `[Your Parent Helpline Number]` |
+| 📍 **Address** | `[Your Business Address if applicable]` | Same address |
+| ⏰ **Response Time** | 2-3 business days | **24 hours for parent inquiries** |
 
 </div>
+
+### 🚨 Emergency Contact for Children's Safety
+If you believe a child's safety or privacy has been compromised:
+- 📧 **Immediate Response**: `[Your Emergency Email]`
+- 📞 **24/7 Hotline**: `[Your Emergency Phone]`
 
 ---
 
 <div align="center">
   <p><strong>By using the Good One app, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.</strong></p>
-  <p><em>Thank you for trusting us with your data! 🙏</em></p>
+  <p><em>For parents: By allowing your child to use this app, you consent to this privacy policy and our family-friendly practices.</em></p>
+  <p><em>Thank you for trusting us with your family's data! 👨‍👩‍👧‍👦🙏</em></p>
 </div>
